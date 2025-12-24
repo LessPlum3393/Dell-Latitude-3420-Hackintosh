@@ -15,6 +15,9 @@
 | **Memory**            | 20 GB DDR4 3200 MHz (8 / 16 / 32 / 64 GB may work, not fully tested) |
 | **Audio**             | Realtek ALC3204                                                      |
 | **Wi-Fi / Bluetooth** | Intel® Wi-Fi 6 AX201                                                 |
+| **Storge NVMe**       | WD Black SN850 1 TB                                                  |
+| **Storge SATA**       | WD Green 2.5 240 GB                                                  |
+| **Ethernet**          | Realtek PCIe GbE Family Controller                                   |
 
 ---
 
