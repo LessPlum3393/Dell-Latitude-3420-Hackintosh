@@ -9,6 +9,7 @@
 
 | Component             | Details                                                              |
 | --------------------- | -------------------------------------------------------------------- |
+| **Laptop Model**      | Dell Latitude 3420                                                   |
 | **CPU**               | 11th Gen Intel® Core™ i3-1115G4 (Tiger Lake)                         |
 | **Chipset**           | Intel® Tiger Lake-LP                                                 |
 | **iGPU**              | Intel® UHD Graphics G4                                               |
