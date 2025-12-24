@@ -18,26 +18,39 @@
 | **Wi-Fi / Bluetooth** | Intel® Wi-Fi 6 AX201                                                 |
 | **Storge NVMe**       | WD Black SN850 1 TB                                                  |
 | **Storge SATA**       | WD Green 2.5 240 GB                                                  |
-| **Ethernet**          | Realtek® PCIe GbE Family Controller                                   |
+| **Ethernet**          | Realtek® PCIe GbE Family Controller                                  |
 
 ---
 
 ## Current Status
 
-| Component             | Status                                                               |
-| --------------------- | -------------------------------------------------------------------- |
-| **iGPU**              | 🟡 Partial                                                              |
-| **Audio**             | ❌ Not working                                                          |
-| **Storge NVMe**       | ✅ Working                                                              |
-| **Storge SATA**       | ✅ Working                                                              |
-| **Ethernet**          | Not yet tested                                                       |
-| **Wi-Fi / Bluetooth** | ✅ Working                                                              |
-| **Display**           | 🟡 Partial                                                              |
-| **USB**               | ✅ Working                                                              |
-| **Sleep / Wake**      | 🟡 Partial                                                              |
-| **Battery Readout**   | ✅ Working                                                              |
-| **Camera**            | Not yet tested                                                       |
-| **HDMI Output**       | Not yet tested                                                       |
-| **Power Management**  | ✅ Working                                                              |
-| **microSD Card Reader**            | ✅ Working                                                 |
-| **Booting macOS**     | ✅ Working                                                               |
+| Component                 | Status                                                               |
+| ------------------------- | -------------------------------------------------------------------- |
+| **iGPU**                  | 🟡 Partial                                                          |
+| **Audio**                 | ❌ Not working                                                      |
+| **Storge NVMe**           | ✅ Working                                                          |
+| **Storge SATA**           | ✅ Working                                                          |
+| **Ethernet**              | Not yet tested                                                       |
+| **Wi-Fi / Bluetooth**     | ✅ Working                                                          |
+| **Display**               | 🟡 Partial                                                          |
+| **USB**                   | ✅ Working                                                          |
+| **Sleep / Wake**          | 🟡 Partial                                                          |
+| **Battery Readout**       | ✅ Working                                                          |
+| **Camera**                | Not yet tested                                                       |
+| **HDMI Output**           | Not yet tested                                                       |
+| **Power Management**      | ✅ Working                                                          |
+| **microSD Card Reader**   | ✅ Working                                                          |
+| **Booting macOS**         | ✅ Working                                                          |
+
+## Installation Notes
+| Version        | Status                                        |
+| -------------- | --------------------------------------------- |
+| macOS Ventura  | ✔️ Recommended                                |
+
+### SMBIOS Used:
+MacBookPro16,2
+
+### Required Tools:
+- GenSMBIOS
+- ProperTree
+- USB mapping tool
