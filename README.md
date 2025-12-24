@@ -3,6 +3,9 @@
 **Dell Latitude 3420**
 11th Gen Intel® Core™ i3-1115G4 (Tiger Lake) with Intel® UHD Graphics G4
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0530e1ca-20d0-4e9e-b08b-83abad62482a" />
+<img width="787" height="583" alt="image" src="https://github.com/user-attachments/assets/e1c3bfd5-b2f8-4109-9b52-1cb47b4c0302" />
+
 ---
 
 ## System Specifications
