@@ -39,7 +39,7 @@
 | **USB**                   | ✅ Working                                                          |
 | **Sleep / Wake**          | 🟡 Partial                                                          |
 | **Battery Readout**       | ✅ Working                                                          |
-| **Camera**                | Not yet tested                                                       |
+| **Camera**                | ✅ Working                                                          |
 | **HDMI Output**           | Not yet tested                                                       |
 | **Power Management**      | ✅ Working                                                          |
 | **microSD Card Reader**   | ✅ Working                                                          |
