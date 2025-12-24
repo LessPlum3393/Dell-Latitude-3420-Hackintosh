@@ -5,18 +5,6 @@
 
 ---
 
-## ⚠️ Note
-
-Unfortunately, this EFI currently **cannot boot** and gets stuck at:
-
-```
-[EB|#LOG:EXITBS:START]
-```
-
-If you have found a fix or successfully resolved this issue, please open an issue **[here](https://github.com/LessPlum3393/Dell-Latitude-3420-Hackintosh/issues/new)** so it can be investigated and shared.
-
----
-
 ## System Specifications
 
 | Component             | Details                                                              |
