@@ -21,5 +21,3 @@
 ## Current Status
 
 ❌ **Not yet tested**
-
-See the note above for details regarding the current boot issue.
